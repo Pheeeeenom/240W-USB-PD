@@ -69,3 +69,5 @@ This board is specifically designed to supply power to Xbox 360 consoles, includ
 ## Safety Notice
 
 This board negotiates and delivers high-power DC up to **48 V at 5 A**. Incorrect wiring, an under-rated power supply, or insufficient cable quality can cause malfunction or damage to the Xbox 360 console. Always verify your power source, cable ratings, and connections before use.
+---
+![order specs](https://github.com/Pheeeeenom/240W-USB-PD/blob/main/docs/specs.png)
